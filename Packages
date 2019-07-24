@@ -12,17 +12,16 @@ Name: Jurassic Dinosaur Hack
 Author: StayBizzy <Bizzyz-Modz@outlook.com>
 Depiction: https://BizzyzModz.github.io/BizzyzRepo/depictions/?p=com.BizzyzModz.Jurassic
 
-Package: com.supermamon.oldpackage
-Version: 1.0.0-1
+Package: com.Bizzyz-Modz.sharkworld
+Version: 1.0
 Section: Tweaks
-Maintainer: Reposi3 <reposithree@gmail.com>
+Maintainer: StayBizzy <Bizzyz-Modz@outlook.com>
 Depends: firmware (<7.0)
 Architecture: iphoneos-arm
-Filename: ./debs/com.supermamon.oldpackage_1.0.0-1_iphoneos-arm.deb
-Size: 860
+Filename: ./debs/sharkworld.deb
+Size: 15
 MD5sum: 8c606f0c05217aa2a20949091fe516f0
-Description: This is a sample old package. Firmware should be lower than 7.0
-Name: Old Package
-Author: Reposi3 <reposithree@gmail.com>
-Depiction: https://supermamon.github.io/Reposi3/depictions/?p=com.supermamon.oldpackage
-
+Description: Sharkworld modified enjoy
+Name: sharkworld
+Author: StayBizzy <Bizzyz-Modz@outlook.com>
+Depiction: https://BizzyzModz.github.io/BizzyzRepo/depictions/?p=com.Bizzyz-Modz.sharkworld
