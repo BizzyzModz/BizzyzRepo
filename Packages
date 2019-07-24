@@ -1,15 +1,15 @@
-Package: com.supermamon.newpackage
-Version: 2.0.0-1
+Package: com.BizzyzModz.Jurassic
+Version: 2.0
 Section: Tweaks
-Maintainer: Reposi3 <reposithree@gmail.com>
+Maintainer: StayBizzy <Bizzyz-Modz@outlook.com>
 Depends: firmware (>7.0), mobilesubstrate
 Architecture: iphoneos-arm
-Filename: ./debs/com.supermamon.newpackage_2.0.0-1_iphoneos-arm.deb
-Size: 854
+Filename: ./debs/jurassic.deb
+Size: 16
 MD5sum: 85a01c41aaaa72b48b08d9d0a67f3016
-Description: This is a sample new package. Firmware should be greater than 7.0
-Name: New Package
-Author: Reposi3 <reposithree@gmail.com>
+Description: Modified Store Enjoy
+Name: Jurassic Dinosaur Hack
+Author: StayBizzy <Bizzyz-Modz@outlook.com>
 Depiction: https://BizzyzModz.github.io/BizzyzRepo/depictions/?p=com.BizzyzModz.Jurassic
 
 Package: com.supermamon.oldpackage
