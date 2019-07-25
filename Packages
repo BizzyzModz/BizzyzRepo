@@ -6,7 +6,7 @@ Depends: firmware (>7.0), mobilesubstrate
 Architecture: iphoneos-arm
 Filename: ./debs/jurassic.deb
 Size: 
-MD5sum: 85a01c41aaaa72b48b08d9d0a67f3016
+MD5sum: 1cbb7a17f259a333cb238adbf02431d2
 Description: Modified Store Enjoy
 Name: Jurassic Dinosaur Hack
 Author: StayBizzy <Bizzyz-Modz@outlook.com>
