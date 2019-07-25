@@ -1,11 +1,11 @@
 Package: com.BizzyzModz.Jurassic
-Version: 2.0
+Version: 2.1
 Section: Tweaks
 Maintainer: StayBizzy <Bizzyz-Modz@outlook.com>
 Depends: firmware (>7.0), mobilesubstrate
 Architecture: iphoneos-arm
 Filename: ./debs/jurassic.deb
-Size: 16
+Size: 
 MD5sum: 85a01c41aaaa72b48b08d9d0a67f3016
 Description: Modified Store Enjoy
 Name: Jurassic Dinosaur Hack
