@@ -42,4 +42,10 @@
 			<iconclass>fa fa-reddit</iconclass>
 		</link>
 	</links>
+         <link>
+			<name>MinCraft v1.12.0.2</name>
+			<url>https://www.mediafire.com/file/4qszi8xymb7cj3i/Phantom_v2.zip/file</url>
+			<iconclass>fa fa-reddit</iconclass>
+		</link>
+	</links>
 </package>
