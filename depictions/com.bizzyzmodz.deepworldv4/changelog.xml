@@ -1,7 +1,12 @@
 <changelog>
 	<changes>
 		<version>4.0</version>
-		<change>Initial release</change>
+		<change>Second release</change>
+		<change>Added Free Store</change>
+		
+	</changes>
+	<changes>
+		<version>3.0</version>
+		<change>Initial Release</change>
 	</changes>
 </changelog>
-
