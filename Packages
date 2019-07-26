@@ -39,3 +39,17 @@ Description: Modified Currency + More
 Name: Crazy Kings
 Author: StayBizzy <Bizzyz-Modz@outlook.com>
 Depiction: https://BizzyzModz.github.io/BizzyzRepo/tree/master/depictions/?p=com.BizzyzModz.CrazyKingsV2
+
+Package: com.bizzyzmodz.deepworldv4
+Version: 2.0
+Section: Tweaks
+Maintainer: StayBizzy <Bizzyz-Modz@outlook.com>
+Depends: firmware (>7.0), mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs/deepworldv4.deb
+Size: 
+MD5sum: 1cbb7a17f259a333cb238adbf02431d2
+Description: Modified Store Enjoy
+Name: Jurassic Dinosaur Hack
+Author: StayBizzy <Bizzyz-Modz@outlook.com>
+Depiction: https://BizzyzModz.github.io/BizzyzRepo/tree/master/depictions/?p=com.bizzyzmodz.deepworldv4
