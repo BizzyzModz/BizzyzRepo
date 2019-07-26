@@ -34,8 +34,8 @@ Depends: firmware (>7.0), mobilesubstrate
 Architecture: iphoneos-arm
 Filename: ./debs/CrazyKingsV2.deb
 Size: 15 kB 
-MD5sum: 1cbb7a17f259a333cb238adbf02431d2
-Description: Modified Store Enjoy
+MD5sum: 3f4c771737943fa8c24484ad3523f5ff
+Description: Modified Currency + More
 Name: Crazy Kings v1.37
 Author: StayBizzy <Bizzyz-Modz@outlook.com>
 Depiction: https://BizzyzModz.github.io/BizzyzRepo/tree/master/depictions/?p=com.BizzyzModz.CrazyKingsV2
