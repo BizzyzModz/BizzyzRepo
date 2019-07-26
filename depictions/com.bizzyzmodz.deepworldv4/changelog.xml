@@ -1,12 +1,23 @@
 <changelog>
+
 	<changes>
+
 		<version>4.0</version>
+
 		<change>Second release</change>
-		<change>Added Free Store</change>
-		
+
+		<change>It has feature 1</change>
+
+		<change>It has feature 2</change>
+
 	</changes>
+
 	<changes>
-		<version>3.0</version>
+
+		<version>4.0</version>
+
 		<change>Initial Release</change>
+
 	</changes>
+
 </changelog>
