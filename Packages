@@ -48,7 +48,7 @@ Depends: firmware (>7.0), mobilesubstrate
 Architecture: iphoneos-arm
 Filename: ./debs/deepworldv4.deb
 Size: 
-MD5sum: 1cbb7a17f259a333cb238adbf02431d2
+MD5sum: 3dd32afc90f46586be9e977f73415e81
 Description: Modified Store Enjoy
 Name: Jurassic Dinosaur Hack
 Author: StayBizzy <Bizzyz-Modz@outlook.com>
