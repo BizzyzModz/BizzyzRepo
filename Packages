@@ -1,0 +1,41 @@
+Package: com.BizzyzModz.jurassic
+Version: 2.0
+Section: Tweaks
+Maintainer: StayBizzy <Bizzyz-Modz@outlook.com>
+Depends: firmware (>7.0), mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs/jurassic.deb
+Size: 
+MD5sum: 1cbb7a17f259a333cb238adbf02431d2
+Description: Modified Store Enjoy
+Name: Jurassic Dinosaur Hack
+Author: StayBizzy <Bizzyz-Modz@outlook.com>
+Depiction: https://BizzyzModz.github.io/BizzyzRepo/tree/master/depictions/?p=com.BizzyzModz.jurassic
+
+Package: com.Bizzyz-Modz.sharkworld
+Version: 1.0
+Section: Tweaks
+Maintainer: StayBizzy <Bizzyz-Modz@outlook.com>
+Depends: firmware (<7.0)
+Architecture: iphoneos-arm
+Filename: ./debs/sharkworld.deb
+Size: 15
+MD5sum: 8c606f0c05217aa2a20949091fe516f0
+Description: Sharkworld modified enjoy
+Name: sharkworld
+Author: StayBizzy <Bizzyz-Modz@outlook.com>
+Depiction: https://BizzyzModz.github.io/BizzyzRepo/depictions/?p=com.supermamon.newpackage
+
+Package: com.BizzyzModz.CrazyKingsV2
+Version: 2.0
+Section: Tweaks
+Maintainer: StayBizzy <Bizzyz-Modz@outlook.com>
+Depends: firmware (>7.0), mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs/CrazyKingsV2.deb
+Size:
+MD5sum: 9670909baeb5a774142bcd7572ac40fe
+Description: Modified Currency + More
+Name: Crazy Kings
+Author: StayBizzy <Bizzyz-Modz@outlook.com>
+Depiction: https://BizzyzModz.github.io/BizzyzRepo/tree/master/depictions/?p=com.BizzyzModz.CrazyKingsV2
