@@ -11,13 +11,10 @@
 			-->
 		</firmware>
 	</compatibility>
-	<dependencies>Mobile Substrate</dependencies>
+	<dependencies>mobilesubstrate</dependencies>
 	<descriptionlist>
 		<description>Crazy Kings Hack Features Unlimited Currencies. Daily Chest Always Available + more</description>
 	</descriptionlist>
-	<screenshots></screenshots>
-	<changelog>
-		<change>Initial release</change>
-	</changelog>
 	
 </package>
+
