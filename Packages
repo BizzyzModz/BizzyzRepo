@@ -16,7 +16,7 @@ Package: com.Bizzyz-Modz.sharkworld
 Version: 1.0
 Section: Tweaks
 Maintainer: StayBizzy <Bizzyz-Modz@outlook.com>
-Depends: firmware (<7.0)
+Depends: firmware (>7.0)
 Architecture: iphoneos-arm
 Filename: ./debs/sharkworld.deb
 Size: 15
