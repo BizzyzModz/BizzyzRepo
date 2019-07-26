@@ -2,9 +2,9 @@
 
 	<id>com.BizzyzModz.CrazyKingsV2</id>
 
-	<name>Jurassic Dinosaur Hack</name>
+	<name>Crazy kings</name>
 
-	<version>2.0.0-1</version>
+	<version>2.0</version>
 
 	<compatibility>
 
@@ -29,16 +29,6 @@
 		<description>This is an package will full depictions.</description>
 
 		<description>It has more description lines.</description>
-
-		<description><![CDATA[
-
-		You can also have<br/> 
-
-		a multi-line item.
-
-		]]>
-
-		</description>
 
 	</descriptionlist>
 
