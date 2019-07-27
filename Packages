@@ -104,7 +104,7 @@ Depends: firmware (>70), mobilesubstrate
 Architecture: iphoneos-arm
 Filename: ./debs/TinyRails.deb
 Size: 
-MD5sum: b648c3840fbbf113e6214eae1fddc06c
+MD5sum: 1a11b59bfd3417d93bb2bd68e27cf7be
 Description:Free Store
 Name: Tiny Rails
 Author: StayBizzy <Bizzyz-Modz@outlook.com>
@@ -118,7 +118,7 @@ Depends: firmware (>7.0), mobilesubstrate
 Architecture: iphoneos-arm
 Filename: ./debs/Spotify++.deb
 Size: 
-MD5sum: b648c3840fbbf113e6214eae1fddc06c
+MD5sum: 0b7f3662c4dc5d4708790665b571ab88
 Description:Full Dark Mode + Premium
 Name: Spotify++
 Author: StayBizzy <Bizzyz-Modz@outlook.com>
@@ -132,7 +132,7 @@ Depends: firmware (>7.0), mobilesubstrate
 Architecture: iphoneos-arm
 Filename: ./debs/towncity.deb
 Size: 
-MD5sum: b648c3840fbbf113e6214eae1fddc06c
+MD5sum: 3ac75698cce5620e2a1dec5addfc087e
 Description:Free Store
 Name: Town City
 Author: StayBizzy <Bizzyz-Modz@outlook.com>
