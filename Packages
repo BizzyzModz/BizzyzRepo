@@ -20,7 +20,7 @@ Depends: firmware (>7.0)
 Architecture: iphoneos-arm
 Filename: ./debs/sharkworld.deb
 Size: 
-MD5sum: 8c606f0c05217aa2a20949091fe516f0
+MD5sum: c4466b8ca768daf8d2a2ee2b59ad017e
 Description: Sharkworld modified enjoy
 Name: sharkworld
 Author: StayBizzy <Bizzyz-Modz@outlook.com>
@@ -48,7 +48,7 @@ Depends: firmware (>7.0), mobilesubstrate
 Architecture: iphoneos-arm
 Filename: ./debs/deepworldv4.deb
 Size: 
-MD5sum: 3dd32afc90f46586be9e977f73415e81
+MD5sum: 5a1c1da3c6a349e4f95ca934be6c271c
 Description: Alot Of Mods Flying • Free Store + more  Enjoy
 Name: DeepWorldV4
 Author: StayBizzy <Bizzyz-Modz@outlook.com>
