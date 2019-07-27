@@ -145,7 +145,7 @@ Maintainer: StayBizzy <Bizzyz-Modz@outlook.com>
 Depends: firmware (>5.0), mobilesubstrate
 Architecture: iphoneos-arm
 Filename: ./debs/WarOfEmpires.deb
-Size: 
+Size: 156
 MD5sum: 1cbb7a17f259a333cb238adbf02431d2
 Description: Modified Bounty claims 
 Name: War Of Empires Hack
