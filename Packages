@@ -111,14 +111,14 @@ Author: StayBizzy <Bizzyz-Modz@outlook.com>
 Depiction: https://BizzyzModz.github.io/BizzyzRepo/tree/master/depictions/?p=com.BizzyzModz.TinyRails
 
 Package: com.BizzyzModz.Spotify++
-Version: 1.0
+Version: 2.0
 Section: Tweaks
 Maintainer: StayBizzy <Bizzyz-Modz@outlook.com>
 Depends: firmware (>7.0), mobilesubstrate
 Architecture: iphoneos-arm
 Filename: ./debs/Spotify++.deb
 Size: 
-MD5sum: 0b7f3662c4dc5d4708790665b571ab88
+MD5sum: a9c1e4a1f2e0ce4b752b4e9645a44641
 Description:Full Dark Mode + Premium
 Name: Spotify++
 Author: StayBizzy <Bizzyz-Modz@outlook.com>
