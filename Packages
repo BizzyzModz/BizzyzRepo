@@ -1,5 +1,5 @@
 Package: com.BizzyzModz.jurassic
-Version: 2.0
+Version: 1.0
 Section: Tweaks
 Maintainer: StayBizzy <Bizzyz-Modz@outlook.com>
 Depends: firmware (>7.0), mobilesubstrate
@@ -48,7 +48,7 @@ Depends: firmware (>7.0), mobilesubstrate
 Architecture: iphoneos-arm
 Filename: ./debs/deepworldv4.deb
 Size: 
-MD5sum: 5a1c1da3c6a349e4f95ca934be6c271c
+MD5sum: 6ebd2f1d5c79439fd9309cbd9e36d582
 Description: Alot Of Mods Flying • Free Store + more  Enjoy
 Name: DeepWorldV4
 Author: StayBizzy <Bizzyz-Modz@outlook.com>
@@ -69,7 +69,7 @@ Author: StayBizzy <Bizzyz-Modz@outlook.com>
 Depiction: https://BizzyzModz.github.io/BizzyzRepo/tree/master/depictions/?p=com.BizzyzModz.Blockheads
 
 Package: com.BizzyzModz.CityIsland
-Version: 2.0
+Version: 1.0
 Section: Tweaks
 Maintainer: StayBizzy <Bizzyz-Modz@outlook.com>
 Depends: firmware (>7.0), mobilesubstrate
@@ -83,7 +83,7 @@ Author: StayBizzy <Bizzyz-Modz@outlook.com>
 Depiction: https://BizzyzModz.github.io/BizzyzRepo/tree/master/depictions/?p=com.BizzyzModz.CityIsland
 
 Package: com.BizzyzModz.MyHospital
-Version: 2.0
+Version: 1.0
 Section: Tweaks
 Maintainer: StayBizzy <Bizzyz-Modz@outlook.com>
 Depends: firmware (>7.0), mobilesubstrate
