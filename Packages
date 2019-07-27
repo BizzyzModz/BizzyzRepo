@@ -137,3 +137,17 @@ Description:Free Store
 Name: Town City
 Author: StayBizzy <Bizzyz-Modz@outlook.com>
 Depiction: https://BizzyzModz.github.io/BizzyzRepo/tree/master/depictions/?p=com.BizzyzModz.TownCity
+
+Package: com.BizzyzModz.WarOfEmpires
+Version: 0.0.1-1
+Section: Tweaks
+Maintainer: StayBizzy <Bizzyz-Modz@outlook.com>
+Depends: firmware (>5.0), mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs/WarOfEmpires.deb
+Size: 
+MD5sum: 1cbb7a17f259a333cb238adbf02431d2
+Description: Modified Bounty claims 
+Name: War Of Empires Hack
+Author: StayBizzy <Bizzyz-Modz@outlook.com>
+Depiction: https://BizzyzModz.github.io/BizzyzRepo/tree/master/depictions/?p=com.BizzyzModz.WarOfEmpires
