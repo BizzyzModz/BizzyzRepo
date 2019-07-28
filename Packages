@@ -111,7 +111,7 @@ Author: StayBizzy <Bizzyz-Modz@outlook.com>
 Depiction: https://BizzyzModz.github.io/BizzyzRepo/tree/master/depictions/?p=com.BizzyzModz.TinyRails
 
 Package: com.BizzyzModz.Spotify++
-Version: 2.0
+Version: 0.0.1-1
 Section: Tweaks
 Maintainer: StayBizzy <Bizzyz-Modz@outlook.com>
 Depends: firmware (>7.0), mobilesubstrate
