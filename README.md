@@ -50,7 +50,7 @@
 	<div class="panel panel-default">
 	  <div class="panel-heading">❗️❗️VISIT REPO BELOW❗️❗️</div>
 	  <div class="panel-body">        
-😜From Mod Menus to Hacked Balances 👇bizzyzmodz.github.io/MiniProHacker.github.io/☝️
+😜From Mod Menus to Hacked Balances 👇https://miniprohackerbtw.github.io/MiniProHacker.github.io/☝️
 Download Links Available 😜<br /><br />
 	  </div>
 	</div>
