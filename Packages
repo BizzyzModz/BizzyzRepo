@@ -1,5 +1,5 @@
 Package: com.BizzyzModz.jurassic
-Version: 1.0
+Version: 0.0.1-1
 Section: Tweaks
 Maintainer: StayBizzy <Bizzyz-Modz@outlook.com>
 Depends: firmware (>7.0), mobilesubstrate
@@ -13,7 +13,7 @@ Author: StayBizzy <Bizzyz-Modz@outlook.com>
 Depiction: https://BizzyzModz.github.io/BizzyzRepo/tree/master/depictions/?p=com.BizzyzModz.jurassic
 
 Package: com.Bizzyz-Modz.sharkworld
-Version: 1.0
+Version: 0.0.1-1
 Section: Tweaks
 Maintainer: StayBizzy <Bizzyz-Modz@outlook.com>
 Depends: firmware (>7.0)
@@ -69,7 +69,7 @@ Author: StayBizzy <Bizzyz-Modz@outlook.com>
 Depiction: https://BizzyzModz.github.io/BizzyzRepo/tree/master/depictions/?p=com.BizzyzModz.Blockheads
 
 Package: com.BizzyzModz.CityIsland
-Version: 1.0
+Version: 0.0.1-1
 Section: Tweaks
 Maintainer: StayBizzy <Bizzyz-Modz@outlook.com>
 Depends: firmware (>7.0), mobilesubstrate
@@ -83,7 +83,7 @@ Author: StayBizzy <Bizzyz-Modz@outlook.com>
 Depiction: https://BizzyzModz.github.io/BizzyzRepo/tree/master/depictions/?p=com.BizzyzModz.CityIsland
 
 Package: com.BizzyzModz.MyHospital
-Version: 1.0
+Version: 0.0.1-1
 Section: Tweaks
 Maintainer: StayBizzy <Bizzyz-Modz@outlook.com>
 Depends: firmware (>7.0), mobilesubstrate
@@ -97,7 +97,7 @@ Author: StayBizzy <Bizzyz-Modz@outlook.com>
 Depiction: https://BizzyzModz.github.io/BizzyzRepo/tree/master/depictions/?p=com.BizzyzModz.MyHospital
 
 Package: com.BizzyzModz.TinyRails
-Version: 1.0
+Version: 0.0.1-1
 Section: Tweaks
 Maintainer: StayBizzy <Bizzyz-Modz@outlook.com>
 Depends: firmware (>70), mobilesubstrate
@@ -125,7 +125,7 @@ Author: StayBizzy <Bizzyz-Modz@outlook.com>
 Depiction: https://BizzyzModz.github.io/BizzyzRepo/tree/master/depictions/?p=com.BizzyzModz.Spotify
 
 Package: com.BizzyzModz.TownCity
-Version: 1.0
+Version: 0.0.1-1
 Section: Tweaks
 Maintainer: StayBizzy <Bizzyz-Modz@outlook.com>
 Depends: firmware (>7.0), mobilesubstrate
