@@ -1,1 +1,19 @@
+<package>
+	<id>com.BizzyzModz.WarOfEmpires</id>
+	<name>WarOfEmpires</name>
+	<version>1.0.0-1</version>
+	<compatibility>
+		<firmware>
+			<miniOS>7.0</miniOS>
+			<otherVersions>unsupported</otherVersions>
+		</firmware>
+	</compatibility>
+	<dependencies>mobilesubstrate</dependencies>
+	<descriptionlist>
+		<description>This package is a tweak for WarOfEmpires. Enjoy 😜</description>
+	</descriptionlist>
+	<changelog>
+		<change>Initial release</change>
+	</changelog>
+</package>
 
