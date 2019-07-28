@@ -5,7 +5,7 @@ Maintainer: StayBizzy <Bizzyz-Modz@outlook.com>
 Depends: firmware (>7.0), mobilesubstrate
 Architecture: iphoneos-arm
 Filename: ./debs/jurassic.deb
-Size: 
+Size: 12584
 MD5sum: 1cbb7a17f259a333cb238adbf02431d2
 Description: Modified Store Enjoy
 Name: Jurassic Dinosaur Hack
@@ -19,7 +19,7 @@ Maintainer: StayBizzy <Bizzyz-Modz@outlook.com>
 Depends: firmware (>7.0)
 Architecture: iphoneos-arm
 Filename: ./debs/sharkworld.deb
-Size: 
+Size: 4836
 MD5sum: c4466b8ca768daf8d2a2ee2b59ad017e
 Description: Sharkworld modified enjoy
 Name: sharkworld
@@ -33,7 +33,7 @@ Maintainer: StayBizzy <Bizzyz-Modz@outlook.com>
 Depends: firmware (>7.0), mobilesubstrate
 Architecture: iphoneos-arm
 Filename: ./debs/CrazyKingsV2.deb
-Size:
+Size: 16052
 MD5sum: 9670909baeb5a774142bcd7572ac40fe
 Description: Modified Currency + More
 Name: Crazy Kings
@@ -47,7 +47,7 @@ Maintainer: StayBizzy <Bizzyz-Modz@outlook.com>
 Depends: firmware (>7.0), mobilesubstrate
 Architecture: iphoneos-arm
 Filename: ./debs/deepworldv4.deb
-Size: 
+Size: 6664
 MD5sum: 6ebd2f1d5c79439fd9309cbd9e36d582
 Description: Alot Of Mods Flying • Free Store + more  Enjoy
 Name: DeepWorldV4
@@ -61,7 +61,7 @@ Maintainer: StayBizzy <Bizzyz-Modz@outlook.com>
 Depends: firmware (>7.0), mobilesubstrate
 Architecture: iphoneos-arm
 Filename: ./debs/blockheadsv5.deb
-Size: 
+Size: 21924
 MD5sum: 2f1ec34fc748abb8102b5bc14f5a539c
 Description: Alot Of Mods Flying • Free Store + more  
 Name: BlockHeads
@@ -75,7 +75,7 @@ Maintainer: StayBizzy <Bizzyz-Modz@outlook.com>
 Depends: firmware (>7.0), mobilesubstrate
 Architecture: iphoneos-arm
 Filename: ./debs/cityisland.deb
-Size: 
+Size: 15908
 MD5sum: 41426f8daf85dd95bdac58a7c617e4a9
 Description: Free Store 
 Name: CityIsland
@@ -89,7 +89,7 @@ Maintainer: StayBizzy <Bizzyz-Modz@outlook.com>
 Depends: firmware (>7.0), mobilesubstrate
 Architecture: iphoneos-arm
 Filename: ./debs/MyHospital.deb
-Size: 
+Size: 16756
 MD5sum: b648c3840fbbf113e6214eae1fddc06c
 Description:Free Store
 Name: My Hospital
@@ -103,7 +103,7 @@ Maintainer: StayBizzy <Bizzyz-Modz@outlook.com>
 Depends: firmware (>70), mobilesubstrate
 Architecture: iphoneos-arm
 Filename: ./debs/TinyRails.deb
-Size: 
+Size: 16292
 MD5sum: 1a11b59bfd3417d93bb2bd68e27cf7be
 Description:Free Store
 Name: Tiny Rails
@@ -117,7 +117,7 @@ Maintainer: StayBizzy <Bizzyz-Modz@outlook.com>
 Depends: firmware (>7.0), mobilesubstrate
 Architecture: iphoneos-arm
 Filename: ./debs/Spotify++.deb
-Size: 
+Size: 56804
 MD5sum: a9c1e4a1f2e0ce4b752b4e9645a44641
 Description:Full Dark Mode + Premium
 Name: Spotify++
@@ -131,7 +131,7 @@ Maintainer: StayBizzy <Bizzyz-Modz@outlook.com>
 Depends: firmware (>7.0), mobilesubstrate
 Architecture: iphoneos-arm
 Filename: ./debs/towncity.deb
-Size: 
+Size: 16078
 MD5sum: 3ac75698cce5620e2a1dec5addfc087e
 Description:Free Store
 Name: Town City
@@ -145,7 +145,7 @@ Maintainer: StayBizzy <Bizzyz-Modz@outlook.com>
 Depends: firmware (>5.0), mobilesubstrate
 Architecture: iphoneos-arm
 Filename: ./debs/WarOfEmpires.deb
-Size: 
+Size: 16702
 MD5sum: e9c154c5793c1adfd1c328d8a6b139ad
 Description: Modified Bounty claims 
 Name: War Of Empires Hack
@@ -156,7 +156,7 @@ Package: com.BizzyzModz.BakeryTown
 Version: 0.0.1-1
 Section: Tweaks
 Maintainer: StayBizzy <Bizzyz-Modz@outlook.com>
-Depends: firmware (>7.0), mobilesubstrate
+Depends: firmware (>5.0), mobilesubstrate
 Architecture: iphoneos-arm
 Filename: ./debs/BakeryTown.deb
 Size: 14530
