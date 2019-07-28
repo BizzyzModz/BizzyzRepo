@@ -1,1 +1,20 @@
+<package>
+	<id>com.BizzyzModz.lilalchemist</id>
+	<name>lil Alchemist</name>
+	<version>1.0.0-1</version>
+	<compatibility>
+		<firmware>
+			<miniOS>5.0</miniOS>
+			<otherVersions>unsupported</otherVersions>
+		</firmware>
+	</compatibility>
+	<dependencies>mobilesubstrate</dependencies>
+	<descriptionlist>
+		<description>This package Gives You Unlimited Coins + Gems 😜</description>
+	</descriptionlist>
+	<changelog>
+		<change>Initial release</change>
+	</changelog>
+</package>
+
 
