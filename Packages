@@ -174,7 +174,7 @@ Depends: firmware (>5.0), mobilesubstrate
 Architecture: iphoneos-arm
 Filename: ./debs/lilalchemist.deb
 Size: 15930
-MD5sum: a9283ef4232c76439b70f7ff6a562d41
+MD5sum: 20568014a56ef4247411e307a375b80e
 Description: Unlinited Coins & Gems
 Name: Lil Alchemist Hack 
 Author: StayBizzy
