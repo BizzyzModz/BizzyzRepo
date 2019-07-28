@@ -14,7 +14,7 @@
 </div>
 
 <div class="container">
-  <h3 id="wells" class="page-header">⬇️ Top Uploads ⬇️</h3>
+  <h3 id="wells" class="page-header">⬇️ Top DownLoads ⬇️</h3>
 </div>
 
 </div>
@@ -27,6 +27,21 @@
 	  </div>
 	</div>
 
+<div class="container">
+	<div class="panel panel-default">
+	  <div class="panel-heading">✅ DeepWorld Hack ✅</div>
+	  <div class="panel-body">
+		DeepWorld - God Mode ▪️ Unlimited steam + a lot more  ▪️ Debug ▪️ No jailbreak Detection😜<br /><br />
+	  </div>
+	</div>
+
+<div class="container">
+	<div class="panel panel-default">
+	  <div class="panel-heading">✅ Spotify App ✅</div>
+	  <div class="panel-body">
+		Spotify - Modified Premium Member + a lot more  ▪️ Debug ▪️ No jailbreak Detection😜<br /><br />
+	  </div>
+	</div>
 
   <h3 id="wells" class="page-header"> 👇 Android Hacks 👇</h3>
 </div>
