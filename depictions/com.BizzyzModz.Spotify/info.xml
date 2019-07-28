@@ -4,13 +4,13 @@
 	<version>1.0.0-1</version>
 	<compatibility>
 		<firmware>
-			<maxiOS>7.0</maxiOS>
+			<miniOS>7.0</miniOS>
 			<otherVersions>unsupported</otherVersions>
 		</firmware>
 	</compatibility>
 	<dependencies>mobilesubstrate</dependencies>
 	<descriptionlist>
-		<description>This is an old package. Requires iOS 7 and below..</description>
+		<description>This package is a tweak for Spotify to make the app Better 😜</description>
 	</descriptionlist>
 	<changelog>
 		<change>Initial release</change>
