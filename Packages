@@ -166,3 +166,16 @@ Name: Bakery Town Hack
 Author: StayBizzy <Bizzyz-Modz@outlook.com>
 Depiction: https://BizzyzModz.github.io/BizzyzRepo/tree/master/depictions/?p=com.BizzyzModz.BakeryTown
 
+Package: com.BizzyzModz.lilalchemist
+Version: 0.0.1-1
+Section: Tweaks
+Maintainer: StayBizzy
+Depends: firmware (>5.0), mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs/lilalchemist.deb
+Size: 15930
+MD5sum: a9283ef4232c76439b70f7ff6a562d41
+Description: Unlinited Coins & Gems
+Name: Lil Alchemist Hack 
+Author: StayBizzy
+Depiction: https://BizzyzModz.github.io/BizzyzRepo/tree/master/depictions/?p=com.BizzyzModz.lilalchemist
