@@ -200,9 +200,9 @@ Section: Tweaks
 Maintainer: StayBizzy
 Depends: firmware (>9.0), mobilesubstrate
 Architecture: iphoneos-arm
-Filename: ./debs/darkios9.deb
-Size: 113784
-MD5sum: 2d96d23dcce53a7b1c2f77dfe71a8b3e
+Filename: ./debs/Fulldarkios9.deb
+Size: 113842
+MD5sum: b7adc87d1edb27f7c1964b37338e5a08
 Description: Full System Dark Mode for IOS 9
 Name: Full DarkMode IOS 9
 Author: StayBizzy
