@@ -179,3 +179,17 @@ Description: Unlinited Coins & Gems
 Name: Lil Alchemist Hack 
 Author: StayBizzy
 Depiction: https://BizzyzModz.github.io/BizzyzRepo/tree/master/depictions/?p=com.BizzyzModz.lilalchemist
+
+Package: com.BizzyzModz.PetCity
+Version: 0.0.1-1
+Section: Tweaks
+Maintainer: StayBizzy
+Depends: firmware (>5.0), mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs/PetCity.deb
+Size: 13856
+MD5sum: 20568014a56ef4247411e307a375b80e
+Description: Unlinited Coins & Gems
+Name: Pet City
+Author: StayBizzy
+Depiction: https://BizzyzModz.github.io/BizzyzRepo/tree/master/depictions/?p=com.BizzyzModz.PetCity
