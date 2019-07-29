@@ -193,3 +193,17 @@ Description: Unlinited Coins & Gems
 Name: Pet City
 Author: StayBizzy
 Depiction: https://BizzyzModz.github.io/BizzyzRepo/tree/master/depictions/?p=com.BizzyzModz.PetCity
+
+Package: com.BizzyzModz.Fulldarkios9
+Version: 0.0.1-1
+Section: Tweaks
+Maintainer: StayBizzy
+Depends: firmware (>9.0), mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs/PetCity.deb
+Size: 113784
+MD5sum: 20568014a56ef4247411e307a375b80e
+Description: Full System Dark Mode for IOS 9
+Name: Full DarkMode IOS 9
+Author: StayBizzy
+Depiction: https://BizzyzModz.github.io/BizzyzRepo/tree/master/depictions/?p=com.BizzyzModz.Fulldarkios9
