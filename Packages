@@ -188,7 +188,7 @@ Depends: firmware (>5.0), mobilesubstrate
 Architecture: iphoneos-arm
 Filename: ./debs/PetCity.deb
 Size: 13856
-MD5sum: 20568014a56ef4247411e307a375b80e
+MD5sum: 27ffc8fcc50f6c0e6a0bffc946efb771
 Description: Unlinited Coins & Gems
 Name: Pet City
 Author: StayBizzy
@@ -202,7 +202,7 @@ Depends: firmware (>9.0), mobilesubstrate
 Architecture: iphoneos-arm
 Filename: ./debs/PetCity.deb
 Size: 113784
-MD5sum: 20568014a56ef4247411e307a375b80e
+MD5sum: 
 Description: Full System Dark Mode for IOS 9
 Name: Full DarkMode IOS 9
 Author: StayBizzy
