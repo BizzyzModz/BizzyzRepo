@@ -1,1 +1,23 @@
+<package>
+	<id>com.BizzyzModz.DarkMode</id>
+	<name>DarkMode 12</name>
+	<version>1.0.0-1</version>
+	<compatibility>
+		<firmware>
+			<miniOS>12.0</miniOS>
+                        <maxiOS>12.0</miniOS>
+			<otherVersions>unsupported</otherVersions>
+		</firmware>
+	</compatibility>
+	<dependencies>mobilesubstrate</dependencies>
+	<descriptionlist>
+		<description>Full Dark Mode For IOS 12. Any Problems Or 
+Apps Not Working Please Get in touch So I Can Update 😜</description>
+	</descriptionlist>
+	<changelog>
+		<change>Initial release</change>
+	</changelog>
+</package>
+
+
 
