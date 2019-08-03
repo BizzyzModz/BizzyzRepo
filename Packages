@@ -202,7 +202,7 @@ Depends: firmware (>12.0), mobilesubstrate
 Architecture: iphoneos-arm
 Filename: ./debs/darkmode12.deb
 Size: 121900
-MD5sum: 944a1e869969dd8a4b64ca5e6ebc209a
+MD5sum: 686b7a10aea174d6686ce8b3dbd28420
 Description: Full IOS 12 Dark Mode 
 Name: DarkMode 12
 Author: StayBizzy <Bizzyz-Modz@outlook.com>
