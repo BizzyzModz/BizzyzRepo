@@ -201,8 +201,8 @@ Maintainer: StayBizzy <Bizzyz-Modz@outlook.com>
 Depends: firmware (>12.0), mobilesubstrate
 Architecture: iphoneos-arm
 Filename: ./debs/darkmode12.deb
-Size: 121900
-MD5sum: 686b7a10aea174d6686ce8b3dbd28420
+Size: 121902
+MD5sum: 450e055931ea75c668a77fb6772217d0
 Description: Full IOS 12 Dark Mode 
 Name: DarkMode 12
 Author: StayBizzy <Bizzyz-Modz@outlook.com>
