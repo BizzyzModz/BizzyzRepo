@@ -221,3 +221,32 @@ Description: Full IOS 9 Dark Mode
 Name: DarkMode For IOS 9.x
 Author: StayBizzy <Bizzyz-Modz@outlook.com>
 Depiction: https://BizzyzModz.github.io/BizzyzRepo/tree/master/depictions/?p=com.BizzyzModz.DarkIOS9
+
+Package: com.BizzyzModz.PinSettings
+Version: 1.0.0
+Section: Tweaks
+Maintainer: StayBizzy <Bizzyz-Modz@outlook.com>
+Depends: firmware (>9.0), mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs/PinSettings.deb
+Size: 45260
+MD5sum: 7b7ed77a8390725afea95fb3ac9320e6
+Description: Sick Of Scrolling Through Settings To Get What You Want ?? EASY Install This Tweak To Be Able To Pin What You Want To The Top Of The List  
+Name: DarkMode For IOS 9.x
+Author: StayBizzy <Bizzyz-Modz@outlook.com>
+Depiction: https://BizzyzModz.github.io/BizzyzRepo/tree/master/depictions/?p=com.BizzyzModz.PinSetings
+
+Package: com.BizzyzModz.PowerOff
+Version: 1.0.0
+Section: Tweaks
+Maintainer: StayBizzy <Bizzyz-Modz@outlook.com>
+Depends: firmware (>9.0), mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs/PowerOff.deb
+Size: 24024
+MD5sum: 7b7ed77a8390725afea95fb3ac9320e6
+Description: Extra Options Added To Power Off Button. Respring/Reboot/PowerDown/SafeMode 
+Name: Power Off Extra
+Author: StayBizzy <Bizzyz-Modz@outlook.com>
+Depiction: https://BizzyzModz.github.io/BizzyzRepo/tree/master/depictions/?p=com.BizzyzModz.PowerOff
+
