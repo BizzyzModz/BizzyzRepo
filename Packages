@@ -209,15 +209,15 @@ Author: StayBizzy <Bizzyz-Modz@outlook.com>
 Depiction: https://BizzyzModz.github.io/BizzyzRepo/tree/master/depictions/?p=
 
 Package: com.BizzyzModz.DarkIOS9
-Version: 1.0.0-1
+Version: 0.0.1-1
 Section: Tweaks
 Maintainer: StayBizzy <Bizzyz-Modz@outlook.com>
-Depends: firmware (>12.0), mobilesubstrate
+Depends: firmware (>9.0), mobilesubstrate
 Architecture: iphoneos-arm
-Filename: ./debs/darkmode12.deb
-Size: 121902
+Filename: ./debs/darkios9.deb
+Size: 113838
 MD5sum: 450e055931ea75c668a77fb6772217d0
-Description: Full IOS 12 Dark Mode 
-Name: DarkMode 12
+Description: Full IOS 9 Dark Mode 
+Name: DarkMode For IOS 9.x
 Author: StayBizzy <Bizzyz-Modz@outlook.com>
 Depiction: https://BizzyzModz.github.io/BizzyzRepo/tree/master/depictions/?p=com.BizzyzModz.DarkIOS9
