@@ -1,23 +1,7 @@
-<package>
-	<id>com.BizzyzModz.DarkMode</id>
-	<name>DarkMode 12</name>
-	<version>2.0</version>
-	<compatibility>
-		<firmware>
-			<miniOS>12.0</miniOS>
-                        <maxiOS>12.0</miniOS>
-			<otherVersions>unsupported</otherVersions>
-		</firmware>
-	</compatibility>
-	<dependencies>mobilesubstrate</dependencies>
-	<descriptionlist>
-		<description>Full Dark Mode For IOS 12. Any Problems Or 
-Apps Not Working Please Get in touch So I Can Update 😜</description>
-	</descriptionlist>
-	<changelog>
-		<change>Initial release</change>
-	</changelog>
-</package>
-
-
-
+<div class="container">
+	<div class="panel panel-default">
+	  <div class="panel-heading">✅ IOS 12 DARK MODE✅</div>
+	  <div class="panel-body">
+		BlockHeads - Modified System Dark Mode 😜<br /><br />
+	  </div>
+	</div>
