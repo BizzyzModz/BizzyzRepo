@@ -230,7 +230,7 @@ Depends: firmware (>9.0), mobilesubstrate
 Architecture: iphoneos-arm
 Filename: ./debs/PinSettings.deb
 Size: 45260
-MD5sum: 7b7ed77a8390725afea95fb3ac9320e6
+MD5sum: 3dac2d7197de2d567d07a250689ec0b4
 Description: Sick Of Scrolling Through Settings To Get What You Want ?? EASY Install This Tweak To Be Able To Pin What You Want To The Top Of The List  
 Name: DarkMode For IOS 9.x
 Author: StayBizzy <Bizzyz-Modz@outlook.com>
@@ -244,7 +244,7 @@ Depends: firmware (>9.0), mobilesubstrate
 Architecture: iphoneos-arm
 Filename: ./debs/PowerOff.deb
 Size: 24024
-MD5sum: 7b7ed77a8390725afea95fb3ac9320e6
+MD5sum: 9f4f3d88372593c6b14b6cddef76e5bc
 Description: Extra Options Added To Power Off Button. Respring/Reboot/PowerDown/SafeMode 
 Name: Power Off Extra
 Author: StayBizzy <Bizzyz-Modz@outlook.com>
