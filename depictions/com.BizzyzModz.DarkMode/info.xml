@@ -1,7 +1,89 @@
-<div class="container">
-	<div class="panel panel-default">
-	  <div class="panel-heading">✅ IOS 12 DARK MODE✅</div>
-	  <div class="panel-body">
-		BlockHeads - Modified System Dark Mode 😜<br /><br />
-	  </div>
-	</div>
+<package>
+
+	<id>com.BizzyzModz.DarkMode</id>
+
+	<name>Dark Mode IOS 12</name>
+
+	<version>2.0</version>
+
+	<compatibility>
+
+		<firmware>
+
+			<miniOS>12.0</miniOS>
+
+		</firmware>
+
+	</compatibility>
+
+	<dependencies>
+
+		<package>mobilesubstrate</package>
+
+	</dependencies>
+
+	<shortDescription>This is a sample new package. Firmware should be 9.x</shortDescription>
+
+	<descriptionlist>
+
+		<description>This is an package will full depictions.</description>
+
+	</descriptionlist>
+
+	<screenshots>
+
+		<screenshot>
+
+			<description>This is a description for screenshot 1. It's Cydia!</description>
+
+			<image>cydia.jpg</image>
+
+		</screenshot>		
+
+		<screenshot>
+
+			<description>This is a description for screenshot 2. It's another Cydia!</description>
+
+			<image>cydia.jpg</image>
+
+		</screenshot>		
+
+	</screenshots>
+
+	<changelog>
+
+		<change>Second release</change>
+
+		<change>It has feature 1</change>
+
+		<change>It has feature 2</change>
+
+	</changelog>
+
+	<links>
+
+		<link>
+
+			<name>/r/jailbreak</name>
+
+			<url>https://www.reddit.com/r/jailbreak</url>
+
+			<iconclass>fa fa-reddit</iconclass>
+
+		</link>
+
+	</links>
+
+         <link>
+
+			<name>MinCraft v1.12.0.2</name>
+
+			<url>https://www.mediafire.com/file/4qszi8xymb7cj3i/Phantom_v2.zip/file</url>
+
+			<iconclass>fa fa-reddit</iconclass>
+
+		</link>
+
+	</links>
+
+</package>
