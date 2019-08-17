@@ -258,7 +258,7 @@ Depends: firmware (>9.0), mobilesubstrate
 Architecture: iphoneos-arm
 Filename: ./debs/vikings.deb
 Size: 16918
-MD5sum: 9f4f3d88372593c6b14b6cddef76e5bc
+MD5sum: a292f77c062127f6da5efa1d0c06e489
 Description: Free Store
 Name: VikingHuntersStore
 Author: StayBizzy <Bizzyz-Modz@outlook.com>
@@ -286,7 +286,7 @@ Depends: firmware (>9.0), mobilesubstrate
 Architecture: iphoneos-arm
 Filename: ./debs/agario.deb
 Size: 16264
-MD5sum: 9f4f3d88372593c6b14b6cddef76e5bc
+MD5sum: 2af7bba6a9ed32ecb9e9f88fd0dad069
 Description: Zoom Out includes Split Zoom. Play in DarkMode  
 Name: Agar Dark Split Zoom
 Author: StayBizzy <Bizzyz-Modz@outlook.com>
