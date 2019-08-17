@@ -272,7 +272,7 @@ Depends: firmware (>9.0), mobilesubstrate
 Architecture: iphoneos-arm
 Filename: ./debs/ZombieRT.deb
 Size: 15268
-MD5sum: 9f4f3d88372593c6b14b6cddef76e5bc
+MD5sum: 82093cd6307d3c97ddfae2cdaf5c67de
 Description: 999k coins for gadgets Free cars and weapons 
 Name: Zombie Road Trip
 Author: StayBizzy <Bizzyz-Modz@outlook.com>
