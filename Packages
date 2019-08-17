@@ -250,3 +250,44 @@ Name: Power Off Extra
 Author: StayBizzy <Bizzyz-Modz@outlook.com>
 Depiction: https://BizzyzModz.github.io/BizzyzRepo/tree/master/depictions/?p=com.BizzyzModz.PowerOff
 
+Package: com.BizzyzModz.vikings
+Version: 0.0.1-1
+Section: Tweaks
+Maintainer: StayBizzy <Bizzyz-Modz@outlook.com>
+Depends: firmware (>9.0), mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs/vikings.deb
+Size: 16918
+MD5sum: 9f4f3d88372593c6b14b6cddef76e5bc
+Description: Free Store
+Name: VikingHuntersStore
+Author: StayBizzy <Bizzyz-Modz@outlook.com>
+Depiction: https://BizzyzModz.github.io/BizzyzRepo/tree/master/depictions/?p=com.BizzyzModz.vikings
+
+Package: com.BizzyzModz.ZombieRT
+Version: 0.0.1-1
+Section: Tweaks
+Maintainer: StayBizzy <Bizzyz-Modz@outlook.com>
+Depends: firmware (>9.0), mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs/ZombieRT.deb
+Size: 15268
+MD5sum: 9f4f3d88372593c6b14b6cddef76e5bc
+Description: 999k coins for gadgets Free cars and weapons 
+Name: Zombie Road Trip
+Author: StayBizzy <Bizzyz-Modz@outlook.com>
+Depiction: https://BizzyzModz.github.io/BizzyzRepo/tree/master/depictions/?p=com.BizzyzModz.ZombieRT
+
+Package: com.BizzyzModz.agario
+Version: 0.0.1-1
+Section: Tweaks
+Maintainer: StayBizzy <Bizzyz-Modz@outlook.com>
+Depends: firmware (>9.0), mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs/agario.deb
+Size: 16264
+MD5sum: 9f4f3d88372593c6b14b6cddef76e5bc
+Description: Zoom Out includes Split Zoom. Play in DarkMode  
+Name: Agar Dark Split Zoom
+Author: StayBizzy <Bizzyz-Modz@outlook.com>
+Depiction: https://BizzyzModz.github.io/BizzyzRepo/tree/master/depictions/?p=com.BizzyzModz.agario
