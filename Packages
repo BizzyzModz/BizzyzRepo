@@ -291,3 +291,17 @@ Description: All purchases are free 😜😜
 Name: Plants Vs Zombies 2
 Author: StayBizzy <Bizzyz-Modz@outlook.com>
 Depiction: https://BizzyzModz.github.io/BizzyzRepo/tree/master/depictions/?p=com.BizzyzModz.PlantsVSZombies2
+
+Package: com.BizzyzModz.Insta
+Version: 0.0.1-1
+Section: Tweaks
+Maintainer: StayBizzy <Bizzyz-Modz@outlook.com>
+Depends: firmware (>9.0), mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs/insta.deb
+Size: 68830
+MD5sum: 2af7bba6a9ed32ecb9e9f88fd0dad069
+Description: Name say it all 😜
+Name: Instagram DarkMode
+Author: StayBizzy <Bizzyz-Modz@outlook.com>
+Depiction: https://BizzyzModz.github.io/BizzyzRepo/tree/master/depictions/?p=com.BizzyzModz.Insta
