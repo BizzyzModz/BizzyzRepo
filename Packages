@@ -300,7 +300,7 @@ Depends: firmware (>9.0), mobilesubstrate
 Architecture: iphoneos-arm
 Filename: ./debs/insta.deb
 Size: 68830
-MD5sum: 2af7bba6a9ed32ecb9e9f88fd0dad069
+MD5sum: 3b813c8f257e3db05905d12b8834f6dd
 Description: Name say it all 😜
 Name: Instagram DarkMode
 Author: StayBizzy <Bizzyz-Modz@outlook.com>
