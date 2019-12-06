@@ -304,4 +304,18 @@ MD5sum: 3b813c8f257e3db05905d12b8834f6dd
 Description: Name say it all 😜
 Name: Instagram DarkMode
 Author: StayBizzy <Bizzyz-Modz@outlook.com>
-Depiction: https://BizzyzModz.github.io/BizzyzRepo/tree/master/depictions/?p=com.BizzyzModz.Insta
+Depiction: https://BizzyzModz.github.io/BizzyzRepo/tree/master/depictions/?p=com.BizzyzModz.insta
+
+Package: com.BizzyzModz.FloweramaV1
+Version: 2.0
+Section: Tweaks
+Maintainer: StayBizzy <Bizzyz-Modz@outlook.com>
+Depends: firmware (>9.0), mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs/insta.deb
+Size: 46600
+MD5sum: 3b813c8f257e3db05905d12b8834f6dd
+Description: free coins + Bugs 😜
+Name: Flowerama Hack
+Author: StayBizzy <Bizzyz-Modz@outlook.com>
+Depiction: https://BizzyzModz.github.io/BizzyzRepo/tree/master/depictions/?p=com.BizzyzModz.FloweramaV1
