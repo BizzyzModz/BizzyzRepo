@@ -314,7 +314,7 @@ Depends: firmware (>9.0), mobilesubstrate
 Architecture: iphoneos-arm
 Filename: ./debs/flowerama.deb
 Size: 46600
-MD5sum: eadc5b547426dledb8a4e0f024685228
+MD5sum: eadc5b547426d1edb8a4e0f024685228
 Description: free coins + Bugs 😜
 Name: Flowerama Hack
 Author: StayBizzy <Bizzyz-Modz@outlook.com>
